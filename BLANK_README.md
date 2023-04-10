@@ -185,7 +185,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [otherneildrew - Best README Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
