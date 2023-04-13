@@ -162,7 +162,7 @@ If you would like to improve this project, please fork the repo and create a pul
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@email_client.com
+Author: [email@email_client.com](email@email_client.com)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
