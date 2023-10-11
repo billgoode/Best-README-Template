@@ -5,24 +5,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
     <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/piwludmezdidn1zgrmbg" alt="Western Carriers Logo" width="183" height="80">
-  </a>
 
 <h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -56,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `email_client`, `email`, `project_title`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,15 +72,11 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -123,8 +104,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -133,8 +112,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 ## Contact
 
 Author: [email@email_client.com](email@email_client.com)
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
