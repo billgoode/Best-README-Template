@@ -51,6 +51,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [![SQL Server][MicrosoftSQLServer]][MicrosoftSQLServer-url]
 * [![Python][Python]][Python-url]
+* [![Visual Studio][VisualStudio]][VisualStudio-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,3 +133,5 @@ Author: [email@email_client.com](email@email_client.com)
 [MicrosoftSQLServer-url]: https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
+[VisualStudio]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
+[VisualStudio-url]: https://visualstudio.microsoft.com/
